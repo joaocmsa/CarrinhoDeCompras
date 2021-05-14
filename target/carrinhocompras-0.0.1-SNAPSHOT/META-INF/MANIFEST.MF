@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: JoaoCarlos
+Build-Jdk: version 15.0.2
+Implementation-Title: carrinhocompras
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.joaodesenvolvimento
+Main-Class: ${start-class}
+
